@@ -20,7 +20,7 @@ const shukri = {
 }
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" width="330">
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=shukriyusof" width="330">
 
 
 ### <img align="left" src="https://media.giphy.com/media/lqSDx8SI1916ysr4eq/source.gif" width="50"> Shukri is listening to...
