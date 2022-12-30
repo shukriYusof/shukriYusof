@@ -1,6 +1,6 @@
 <h2> Hi, I'm Shukri Yusof! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=shukriYusof&show_icons=true" width="330">
-<p><em>Software Engineer at <a href="https://www.runcloud.io">Runcloud.Io</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently working on <a href="https://www.sekolahcode.com">SekolahCode</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Web Developer at <a href="https://www.osky.com.au">Runcloud.Io</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently working on <a href="https://www.sekolahcode.com">SekolahCode</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: ShukriYusof](https://img.shields.io/twitter/follow/shukyusof?style=social)](https://twitter.com/shukyusof)
