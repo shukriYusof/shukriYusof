@@ -11,7 +11,7 @@
 [![Twitter: ShukriYusof](https://img.shields.io/twitter/follow/shukyusof?style=social)](https://twitter.com/shukyusof)
 [![Linkedin: ShukriYusof](https://img.shields.io/badge/-shukriyusof-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shukri-yusof/)](https://www.linkedin.com/in/shukri-yusof/)
 [![GitHub ShukriYusof](https://img.shields.io/github/followers/shukriYusof?label=follow&style=social)](https://github.com/Thaiane)
-![](https://komarev.com/ghpvc/?username=shukriYusof&color=green&style=plastic&label=Secret+Admirer)
+![](https://komarev.com/ghpvc/?username=shukriYusof&color=DC143C&style=plastic&label=Secret+Admirer)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
@@ -26,7 +26,7 @@ const shukri = {
 }
 ```
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=shukriyusof" width="480">
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=shukriYusof&show_icons=true" width="480">
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=shukriyusof" width="330">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=shukriYusof&show_icons=true" width="330">
 
 
